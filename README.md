@@ -1,4 +1,4 @@
-# Home0's Licensing Approach: Seizing the Digital Commons for Housing Justice 🏠✊
+# The People's License: How Home0 Uses PPL to Democratize Housing Transactions 🏠✊
 
 At Home0, we're not just creating AI tools – we're lighting a fire under the broken real estate system. 🔥 That's why we've adopted the Peer Production License (PPL) – a radical license for a radical mission.
 
